@@ -1,8 +1,9 @@
 <!-- Header Section -->
 <div align="center">
+  <!-- Dynamic Header -->
   <img src="https://capsule-render.vercel.app" width="100%" />
   
-  <h1>Welcome My First Project </h1>
+  <h1> 🚀 Welcome To My First Project </h1>
 
   <p>
     <samp>
@@ -19,15 +20,20 @@
 
 ---
 
-### 💡 نبذة عن المشروع
-هذا المشروع هو تطبيق عملي لما تعلمته خلال رحلتي التعليمية في مدرسة الزيرو، حيث ركزت على كتابة كود نظيف وتطبيق أفضل الممارسات.
+### 💡 About The Project
+This project is a practical application of what I learned during my educational journey at **Elzero Web School**, where I focused on writing clean code and following best practices.
 
-### 🛠 التقنيات المستخدمة
-*   **HTML5** & **CSS3**
+### 🛠 Tech Stack
+*   **HTML5**
+*   **CSS3**
 *   **Git & GitHub**
-*   (أضف هنا أي لغة أخرى تعلمتها مثل JavaScript)
+*   *(Optional: Add more skills here like JavaScript)*
 
-### 🌟 شكر خاص
-كل التقدير للمهندس **أسامة الزيرو ||Elzero Web School** على المحتوى التعليمي المتميز الذي ساهم في بناء هذا العمل.
+### 🌟 Special Thanks
+All appreciation to **Osama Elzero** for the outstanding educational content that contributed to building this work.
 
 ---
+
+<div align="center">
+  <sub>Developed with ❤️ by أHaidar</sub>
+</div>
