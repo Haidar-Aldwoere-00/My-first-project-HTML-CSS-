@@ -35,5 +35,5 @@ All appreciation to **Osama Elzero** for the outstanding educational content tha
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by أHaidar</sub>
+  <sub>Developed with ❤️ by Haidar</sub>
 </div>
